@@ -6,17 +6,17 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-import sys
+Use open function to open the file in which we want to copy from and access it in read mode.
 ### Step 2: 
- Initially make count = 0
+ Read the file and store in a variable
 ### Step 3: 
-Open the content file using command line arguments.
+Now create a new file in which we want to paste the content using write access mode.
 ### Step 4:  
-By using for loop name the function as "line"
+Use write function to copy the read file that has been stored in the variable.
 ### Step 5: 
-Split the line using .split
+The content in the original file will be copied in the new file.
 ### Step 6: 
-Split the line using .split
+End the program.
 ## PROGRAM:
 ```
 ## Developed by: NIRAUNJANA GAYATHRI G R
